@@ -1,6 +1,6 @@
 # Keycloak docker builder
 
-Starting from [https://github.com/keycloak/keycloak-containers](keycloak/keycloak-containers) this small project provides a simple way to compile a Docker image for [Keycloak](https://github.com/keycloak/keycloak) starting from sources hosted on any git repository (github/gitlab or whatever).
+Starting from [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers] this small project provides a simple way to compile a Docker image for [Keycloak](https://github.com/keycloak/keycloak) starting from sources hosted on any git repository (github/gitlab or whatever).
 
 
 ## Create image
